@@ -1,0 +1,21 @@
+{
+  "issues": [
+    {
+      "engineId": "test",
+      "ruleId": "rule1",
+      "severity": "BLOCKER",
+      "type": "CODE_SMELL",
+      "primaryLocation": {
+        "message": "fully-fleshed issue",
+        "filePath": "sources/A.java",
+        "textRange": {
+          "startLine": 30,
+          "endLine": 30,
+          "startColumn": 9,
+          "endColumn": 14
+        }
+      },
+      "effortMinutes": 90
+    }
+  ]
+}
